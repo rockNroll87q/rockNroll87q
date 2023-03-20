@@ -8,7 +8,11 @@
 
 Currently a Lecturer @[University of Glasgow](https://www.gla.ac.uk/) (UK) on Machine Learning for Neuroscience. I’m pleased to consider applications from prospective PhD students (see [blog](https://www.michelesvanera.org/blog/) for the latest news). Visit my personal website for more on my research [projects](http://www.michelesvanera.org/).
 
-<iframe src="https://giphy.com/embed/Vn9JVHDAzYw1O" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ2MDk5N2VjOTljMTEzOTE2MWJmY2ZmNDkwYjYxMDBlZjQ2MDZmNSZjdD1n/Vn9JVHDAzYw1O/giphy.gif" width="50%">
+</p>
+
 
 <hr>
 
