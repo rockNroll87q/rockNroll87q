@@ -16,13 +16,35 @@ Currently a Lecturer @[University of Glasgow](https://www.gla.ac.uk/) (UK) on Ar
 
 <hr>
 
-<p align="center"> 
-<a href="https://twitter.com/rockNroll87q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/rockNroll87q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/michele-svanera/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.researchgate.net/profile/Michele-Svanera" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" width="32" height="32" /></a>
-<a href="https://scholar.google.com/citations?hl=it&user=rFPni6kAAAAJ" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="32" height="32" /></a>
-</p>
+<table align="center">
+  <tr>
+    <!-- <td>
+      <a href="https://twitter.com/rockNroll87q" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+      </a>
+    </td> -->
+    <td>
+      <a href="https://www.github.com/rockNroll87q" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/michele-svanera/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.researchgate.net/profile/Michele-Svanera" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" width="32" height="32" />
+      </a>
+    </td>
+    <td>
+      <a href="https://scholar.google.com/citations?hl=it&user=rFPni6kAAAAJ" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" width="32" height="32" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 _Credits_: deliberately inspired by [@danielcranney](https://github.com/danielcranney/).
 
